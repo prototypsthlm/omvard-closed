@@ -106,7 +106,7 @@ input:focus { outline:none; }
 	text-indent: 200%;
 	float: left;
 	margin: 37px 0 0 16px;
-	background: url(/images/logga-no-caps.gif) no-repeat left;
+	background: url(images/logga-no-caps.gif) no-repeat left;
 	z-index: 100;
 	line-height: 128px;
 	margin-left: 16px;
