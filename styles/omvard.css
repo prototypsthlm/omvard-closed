@@ -510,7 +510,7 @@ span.ontop {
 .white-box-small {
   position: relative;
 	display:block;
-	margin-bottom:20px;
+	
 	background: white;
 	padding:30px;
 }
