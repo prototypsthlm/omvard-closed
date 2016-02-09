@@ -1,11 +1,10 @@
 body{
 	background-color:#eee;
-	font:13px/18px "Lucida Grande","Lucida Sans Unicode","Lucida Sans ",Verdana;
+	font:14px/20px "Lucida Grande","Lucida Sans Unicode","Lucida Sans ",Verdana;
 	margin:0;
 	color: #000;
 }
 a{
-	text-decoration:none;
 	color: #000;
 }
 a:hover{
@@ -43,7 +42,7 @@ h1, h2, h3, h4, h5, h6, h7
 h1
 {
     color:#2287cf;
-	font-size: 36px;
+	font-size: 30px;
 	line-height:40px;
     margin: 0; 
 	margin-bottom:10px;
